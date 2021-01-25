@@ -1,0 +1,79 @@
+/* 
+Theme Name : Yussifweb
+Theme URI : #
+Author : Yussifweb
+Author URI : #
+Version : 1.0.1
+Description: A test wordpress theme to help me learn how to create wordpress themes
+Tags: Yussifweb, NetKid, Netmediagh, Wordpress Theme
+*/
+
+.header {
+    width: 1300px;
+    height: 100px;
+}
+
+.header img {
+    width: 1400px;
+    height: 100px;
+}
+
+.post{
+    width: 65%;
+    height: 310px;
+    background-color: #F3EbE1;
+    padding: 20px;
+    margin: auto;
+    display: block;
+    clear: both;
+    margin-bottom: 30px;
+}
+
+.p_img img{
+    width: 300px;
+    height: 300px;
+}
+
+.p_img{
+    width: 30%;
+    float: left;
+    overflow: hidden;
+}
+
+.p_header p{
+    font-size: 18px;
+}
+
+.team {
+    width: 30%;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.team img{
+    width: 150px;
+    height: 150px;
+    border: 1px solid red;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.p_header a{
+    text-decoration: none;
+    padding: 10px;
+    background-color: tomato;
+    color: #fff;
+    text-align: center;
+}
+
+.yussifweb-menu li{
+    padding: 10px;
+    background-color: tomato;
+    text-align: center;
+    list-style-type: none;
+}
+
+.yussifweb-menu a{
+    text-decoration: none;
+    color: #fff;
+}
